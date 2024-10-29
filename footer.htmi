@@ -1,0 +1,17 @@
+<
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Accessories</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">peddals</a>
+                <a class="dropdown-item" href="#">wheels</a>
+                <a class="dropdown-item" href="#">handles</a>
+                <a class="dropdown-item" href="#">baby cycle seats</a>
+                <a class="dropdown-item" href="#">Mountain bike seats</a>
+                <a class="dropdown-item" href="#">small lights</a>
+               
+              </div>
+            </li>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
